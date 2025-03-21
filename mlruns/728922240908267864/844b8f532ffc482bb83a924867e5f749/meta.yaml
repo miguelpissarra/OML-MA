@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/728922240908267864/844b8f532ffc482bb83a924867e5f749/artifacts
+end_time: 1742581635517
+entry_point_name: ''
+experiment_id: '728922240908267864'
+lifecycle_stage: active
+run_id: 844b8f532ffc482bb83a924867e5f749
+run_name: Neural Network run - pipeline
+run_uuid: 844b8f532ffc482bb83a924867e5f749
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742581569832
+status: 3
+tags: []
+user_id: miguel
