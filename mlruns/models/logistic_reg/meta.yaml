@@ -1,5 +1,6 @@
-aliases: {}
+aliases:
+  champion: '1'
 creation_timestamp: 1742574666866
 description: ''
-last_updated_timestamp: 1742574667310
+last_updated_timestamp: 1742852727898
 name: logistic_reg
