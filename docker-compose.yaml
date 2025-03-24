@@ -15,6 +15,7 @@ services:
       dockerfile: Dockerfile.Service
       tags:
         - api-service:latest
+        - ghcr.io/miguelpissarra/api-service
     image: api-service
     container_name: api-service
     ports:
