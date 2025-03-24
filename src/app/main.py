@@ -96,7 +96,7 @@ async def startup_event():
     print(f"Loaded model {model_uri}")
 
 
-@app.post("/bom_pagador")
+@app.post("/default")
 async def predict(input: Request):  
     """
     Prediction endpoint that processes input data and returns a model prediction.
