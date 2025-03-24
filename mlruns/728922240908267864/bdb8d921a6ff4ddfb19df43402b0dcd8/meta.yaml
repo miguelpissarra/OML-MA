@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/728922240908267864/bdb8d921a6ff4ddfb19df43402b0dcd8/artifacts
+end_time: 1742811222171
+entry_point_name: ''
+experiment_id: '728922240908267864'
+lifecycle_stage: active
+run_id: bdb8d921a6ff4ddfb19df43402b0dcd8
+run_name: Baseline Run
+run_uuid: bdb8d921a6ff4ddfb19df43402b0dcd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742811221057
+status: 3
+tags: []
+user_id: miguel
